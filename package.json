@@ -1,0 +1,14 @@
+{
+  "name": "modern_javascript",
+  "version": "1.0.0",
+  "description": "A demo of modern javascript libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alphonse Habyarimana",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.17.1"
+  }
+}
